@@ -1,4 +1,4 @@
-# Stock Analyzer — AI Multi-Agent
+# Stock Analyzer — AI Multi-Agent (Work in Progress)
 
 Automated stock analysis using 3 AI agents powered by Google Gemini 2.5 Flash, with Word report generation.
 
